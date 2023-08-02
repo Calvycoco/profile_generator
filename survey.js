@@ -35,4 +35,3 @@ rl.question(`What's your name? Nicknames are also acceptable :) : `, (name) => {
     });
   });
 });
-
